@@ -1,1 +1,1 @@
-# FIrst-Typescript
+# First-Typescript
